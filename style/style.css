@@ -1,0 +1,18 @@
+/* h1 {
+  font-size: 25px !important;
+}
+
+.judul {
+  font-size: 25px;
+  color: black;
+} */
+
+[type="button"] {
+  font-size: 30px !important;
+  color: green !important;
+}
+
+[type="button"] {
+  font-size: 25px;
+  color: blue;
+}
